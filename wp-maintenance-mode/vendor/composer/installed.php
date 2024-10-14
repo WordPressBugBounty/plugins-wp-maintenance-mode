@@ -1,8 +1,8 @@
 <?php return array(
     'root' => array(
         'name' => 'codeinwp/wp-maintenance-mode',
-        'pretty_version' => '2.6.12',
-        'version' => '2.6.12.0',
+        'pretty_version' => '2.6.13',
+        'version' => '2.6.13.0',
         'reference' => null,
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
@@ -11,17 +11,17 @@
     ),
     'versions' => array(
         'codeinwp/themeisle-sdk' => array(
-            'pretty_version' => '3.3.30',
-            'version' => '3.3.30.0',
-            'reference' => '801a07604a297f02de3067948176f91b4c84bd8a',
+            'pretty_version' => '3.3.31',
+            'version' => '3.3.31.0',
+            'reference' => 'cc8da0623a1814d168baf7194eda1cba354bdc38',
             'type' => 'library',
             'install_path' => __DIR__ . '/../codeinwp/themeisle-sdk',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'codeinwp/wp-maintenance-mode' => array(
-            'pretty_version' => '2.6.12',
-            'version' => '2.6.12.0',
+            'pretty_version' => '2.6.13',
+            'version' => '2.6.13.0',
             'reference' => null,
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
